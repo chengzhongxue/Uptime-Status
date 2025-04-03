@@ -2,6 +2,7 @@
   <img src="public/logo.svg" width="100" height="100" alt="Status Monitor Logo">
 </p>
 
+
 <h1 align="center">站点监测</h1>
 
 <p align="center">优雅的站点状态监控面板</p>
